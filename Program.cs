@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Agora esse repositório é da Kamila
 using System.Diagnostics;
 using System.Text;
 
